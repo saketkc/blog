@@ -1,3 +1,3 @@
 # blog
 
-Notebooks for saket-choudhary.me
+Notebooks for [saket-choudhary.me](https://saket-choudhary.me/)
